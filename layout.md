@@ -6,7 +6,7 @@ In_the_last_two.tex
 Despite_these_advanc.tex
 In_this_work_we.tex
 sectionResults_subse.tex
-figures/GrowthRateCorrelation/default_figure.png
+figures/GrowthRateCorrelation/GrowthRateCorrelation.png
 From_this_point_on.tex
 Following_the_identi.tex
 In_order_to_compare.tex
