@@ -14,7 +14,7 @@ To_assess_the_coordi.tex
 Furthermore_we_exami.tex
 figures/AllProtsVSRibosomalNormalizedSlopes/AllProtsVSRibosomalNormalizedSlopes.png
 subsubsectionChanges.tex
-figures/GlobalClusterGRFit/default_figure.png
+figures/GlobalClusterGRFit/GlobalClusterGRFit.png
 To_conclude_we_obser.tex
 subsectionTheoretica.tex
 The_model_assumes_th.tex
