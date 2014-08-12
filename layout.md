@@ -55,7 +55,7 @@ As_out_of_the.tex
 subsubsectionCalcula.tex
 In_this_study_we.tex
 There_are_different_.tex
-figures/ExpVar2/default_figure.png
+figures/ExpVar2/ExpVar2.png
 The_data_we_use.tex
 subsectionDifference.tex
 The_lower_correlatio.tex
