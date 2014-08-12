@@ -18,7 +18,7 @@ figures/GlobalClusterGRFit/GlobalClusterGRFit.png
 To_conclude_we_obser.tex
 subsectionTheoretica.tex
 The_model_assumes_th.tex
-figures/Figures7-trieste/default_figure.png
+figures/Figures7-trieste/Figures7-trieste.png
 subsubsectionThe_con.tex
 According_to_the_mod.tex
 The_resulting_protei.tex
