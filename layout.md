@@ -12,7 +12,7 @@ Following_the_identi.tex
 In_order_to_compare.tex
 To_assess_the_coordi.tex
 Furthermore_we_exami.tex
-figures/AllProtsVSRibosomalNormalizedSlopes/default_figure.png
+figures/AllProtsVSRibosomalNormalizedSlopes/AllProtsVSRibosomalNormalizedSlopes.png
 subsubsectionChanges.tex
 figures/GlobalClusterGRFit/default_figure.png
 To_conclude_we_obser.tex
