@@ -61,5 +61,5 @@ subsectionDifference.tex
 The_lower_correlatio.tex
 subsectionDiscussion.tex
 Differences_in_ribos.tex
-figures/HeinmannChemostatGr/default_figure.png
+figures/HeinmannChemostatGr/HeinemmanChemostatGr.png
 subsectionUnannotate.tex
